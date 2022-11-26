@@ -63,11 +63,14 @@ developing your own process.
 - Add a new toy when the toy form is submitted
 
   - How I debugged:
+- I removed the plural it toys (toys to toy) 
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  - I rendered Json
 
 - Donate a toy to Goodwill (and delete it from our database)
 
   - How I debugged:
+  - I added 'destroy' in route.rb file
